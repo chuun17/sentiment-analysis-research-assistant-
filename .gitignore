@@ -1,2 +1,4 @@
 archieve/
 paper/
+.*
+!/.gitignore
