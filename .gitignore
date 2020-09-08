@@ -1,5 +1,8 @@
 archieve/
 paper/
+project_env/
 07_Modelling_Random_Forest-Copy*
+08_Modelling_LVQ2-Copy*
+09_Modelling_XGBoost-Copy*
 .*
 !/.gitignore
